@@ -7,7 +7,7 @@ ECOGREEN Android Studio Repository
 안드로이드 스튜디오: 4.1.1 사용   
 Android sdk: android 10.0(API level 29) 이상의 버전
 
-코드에 대한 설명 및 세팅 등은 아래의 블로그에서 확인할 수 있다.
+코드에 대한 설명 및 세팅 등은 아래의 블로그에서 확인할 수 있다.  
 https://jeeny-yap.tistory.com/  <br/><br/>
  
 # 에코그린 유튜브 채널
