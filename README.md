@@ -4,7 +4,7 @@ ECOGREEN Android Studio Repository
 
 에코그린 Organization 링크는 아래에 있으니 참고바란다.
 
-안드로이드 스튜디오: 4.1.1 사용
+안드로이드 스튜디오: 4.1.1 사용   
 Android sdk: android 10.0(API level 29) 이상의 버전
 
 코드에 대한 설명 및 세팅 등은 아래의 블로그에서 확인할 수 있다.
